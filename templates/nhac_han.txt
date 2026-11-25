@@ -1,0 +1,10 @@
+Subject: [Nhắc hạn] Học phí {{ma_hoa_don}} còn {{so_ngay_con_lai}} ngày
+
+Chào {{ten}},
+
+Khoản học phí {{so_tien}} đồng (hoá đơn {{ma_hoa_don}}) sẽ đến hạn vào ngày {{han_thanh_toan}}, tức còn {{so_ngay_con_lai}} ngày kể từ hôm nay ({{ngay_hom_nay}}).
+
+Vui lòng thanh toán đúng hạn. Nếu đã thanh toán, bạn có thể bỏ qua thư này.
+
+Trân trọng,
+Phòng Kế toán

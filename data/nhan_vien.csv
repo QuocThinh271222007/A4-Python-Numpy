@@ -1,0 +1,9 @@
+ma_nv,ten,email,ngay_sinh,phong_ban,file_dinh_kem
+NV001,Nguyễn Văn An,an.nguyen@example.com,18/11/1995,Kế toán,the_qua_tang.txt
+NV002,Trần Thị Bình,binh.tran@example.com,05/03/1990,Nhân sự,
+NV003,Lê Hoàng Cường,cuong.le@example,18/11/1988,IT,
+NV004,Phạm Thu Dung,dung.pham@example.com,18/11/2000,Marketing,
+NV005,Hồ Minh Em,,18/11/1993,IT,
+NV006,Võ Quốc Phong,phong.vo@example.com,18/11/1991,Kinh doanh,khong_ton_tai.pdf
+NV007,Nguyễn Văn An (trùng),an.nguyen@example.com,18/11/1995,Kế toán,
+NV008,Đặng Thị Giang,giang.dang@example.com,18/11/1997,Kế toán,

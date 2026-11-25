@@ -1,0 +1,8 @@
+Subject: Chúc mừng sinh nhật {{ten}}!
+
+Chào {{ten}},
+
+Hôm nay là sinh nhật lần thứ {{tuoi}} của bạn. Phòng {{phong_ban}} và toàn công ty chúc bạn thật nhiều sức khoẻ, niềm vui và thành công!
+
+Trân trọng,
+Ban Nhân sự
